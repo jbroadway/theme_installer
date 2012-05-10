@@ -1,0 +1,14 @@
+{
+    "name": "elefant/theme-installer",
+    "description": "Theme installer for Elefant CMS",
+    "type": "composer-installer",
+    "keywords": ["theme", "themes", "installer", "cms", "elefant"],
+    "homepage": "http://www.elefantcms.com/",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"elefant\\Composer": "src/"}
+    },
+    "extra": {
+        "class": "elefant\\Composer\\ThemeInstaller"
+    }
+}
