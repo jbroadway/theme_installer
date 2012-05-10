@@ -15,7 +15,7 @@ file with the following:
 	"type": "elefant-theme",
 	"license": "MIT",
 	"repositories": [
-		{"type": "git", "url": "http://github.com/jbroadway/elefant_installer"}
+		{"type": "git", "url": "http://github.com/jbroadway/theme_installer"}
 	],
 	"require": {
 		"elefant/theme-installer": "*"
