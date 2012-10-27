@@ -5,6 +5,7 @@
     "keywords": ["theme", "themes", "installer", "cms", "elefant"],
     "homepage": "http://www.elefantcms.com/",
     "license": "MIT",
+    "version": "1.0",
 	"authors": [
 		{
 			"name": "Johnny Broadway",
